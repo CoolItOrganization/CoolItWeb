@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Amatic';
+  src: url(./fonts/AmaticSC-Bold.ttf) ;
+}
+@font-face {
+  font-family: 'Snowburst';
+  src: local('Snowburst' )url(./fonts/SnowburstOne-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Patrick.';
+  src: url(./fonts/PatrickHand-Regular.ttf);
+}
+@font-face {
+  font-family: 'Fedrick';
+  src: url(./fonts/FrederickatheGreat-Regular.ttf);
+}
